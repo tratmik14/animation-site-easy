@@ -1,1 +1,14 @@
-# animation-site-easy
+# Элементарно
+
+Простой адаптивный учебный фан-сайт на русском языке. Сюжет, герои, интересные детали и мини-викторина.
+
+## Запуск
+Откройте index.html в браузере. Сборка и установка библиотек не нужны. Изображения и шрифт сохранены локально.
+
+## GitHub Pages
+В Settings → Pages выберите Deploy from a branch, ветку main, папку / (root) и нажмите Save. После публикации сайт будет доступен по адресу https://tratmik14.github.io/animation-site-easy/ .
+
+## Источники
+https://www.pixar.com/elemental
+
+Неофициальный учебный фан-сайт. Персонажи и изображения принадлежат Disney / Pixar. Шрифт Manrope распространяется по SIL Open Font License; лицензия находится в FONT-LICENSE.txt.
